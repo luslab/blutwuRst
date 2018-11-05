@@ -3,9 +3,10 @@ blutwuRst contains useful functions to analyse (bulk) ATAC-seq data with R.
 
 ## Install 
 ``` r
+install.packages('devtools')
 devtools::install_github("luslab/blutwuRst")
 ``` 
 
 ## Notes 
 * Functions are not documented yet.
-* Package is related to [NeuralATACseq](https://raw.githubusercontent.com/luslab/NeuralATACseq/) 
+* Package is related to [NeuralATACseq](https://github.com/luslab/NeuralATACseq)
